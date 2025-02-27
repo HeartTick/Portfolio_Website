@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\language code"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web doc"
+	}
+}
